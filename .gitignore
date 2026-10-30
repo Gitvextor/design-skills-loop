@@ -1,0 +1,12 @@
+.upstream/
+sources.local.json
+.design-loop/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.DS_Store
+Thumbs.db

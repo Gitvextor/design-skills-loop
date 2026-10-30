@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Skills Loop"
+  short_description: "串联七项 UI 与动画设计资源，逐轮检查实际页面，默认最多迭代六轮"
+  default_prompt: "使用 $design-skills-loop 按七项顺序优化当前项目的界面与交互，默认最多六轮，并记录每轮证据。"

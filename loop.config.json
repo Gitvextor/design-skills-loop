@@ -1,0 +1,15 @@
+{
+  "max_iterations": 6,
+  "stop_when_passed": true,
+  "stop_after_no_progress_rounds": 2,
+  "sequence": [
+    "frontend-design",
+    "awesome-design-md",
+    "ui-ux-pro-max",
+    "understand-anything",
+    "taste-skill",
+    "impeccable",
+    "kinetic-reel"
+  ],
+  "feedback": "Inspect the actual page, verify key interactions, run relevant checks, then feed concrete findings into the next round."
+}

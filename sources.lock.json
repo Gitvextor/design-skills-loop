@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "frontend-design",
+      "repository": "anthropics/skills",
+      "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+      "archive": "skills.zip",
+      "sha256": "25fec008c68956c3bc197e43072acf1b00c8281ecd2883f82acc94ae8ebb5774",
+      "entry": "skills/frontend-design/SKILL.md",
+      "include": [
+        "skills/frontend-design/"
+      ],
+      "license_file": "skills/frontend-design/LICENSE.txt",
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "awesome-design-md",
+      "repository": "VoltAgent/awesome-design-md",
+      "commit": "fcc70284932276d085f01ef9f83edde90b1258cb",
+      "archive": "awesome-design-md.zip",
+      "sha256": "a52e47110e51ba50c11ae7fa27e9fb511ff1156e7139d064b730c53be5e4aca8",
+      "entry": "design-md/apple/DESIGN.md",
+      "include": [
+        "design-md/",
+        "LICENSE"
+      ],
+      "license_file": "LICENSE",
+      "license": "MIT"
+    },
+    {
+      "id": "ui-ux-pro-max",
+      "repository": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "28b3b8dee8c976df4fa3e94aed4e092ad43fcb03",
+      "archive": "ui-ux-pro-max-skill.zip",
+      "sha256": "aa3061923008e55a28aff849112a2dba3f219cf0e4e05d5caad27daee9457957",
+      "entry": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "include": [
+        ".claude/skills/ui-ux-pro-max/",
+        "src/ui-ux-pro-max/",
+        "LICENSE"
+      ],
+      "license_file": "LICENSE",
+      "license": "MIT"
+    },
+    {
+      "id": "understand-anything",
+      "repository": "Egonex-AI/Understand-Anything",
+      "commit": "4e6d3299017a7432da15957874992837a315c5b4",
+      "archive": "Understand-Anything.zip",
+      "sha256": "c8ec3b564f43b2702ed4bd210fa28452f00a4fea07469e1023eaddc9e2dc6e9c",
+      "entry": "understand-anything-plugin/skills/understand/SKILL.md",
+      "include": [
+        "understand-anything-plugin/",
+        "LICENSE"
+      ],
+      "license_file": "LICENSE",
+      "license": "MIT"
+    },
+    {
+      "id": "taste-skill",
+      "repository": "Leonxlnx/taste-skill",
+      "commit": "12af471f627f866411b4bd785b19646d3672784c",
+      "archive": "taste-skill.zip",
+      "sha256": "83d221757c2772f960e934735f02728d40acb5cfc96d13ef0c79ea451584a214",
+      "entry": "skills/taste-skill/SKILL.md",
+      "include": [
+        "skills/taste-skill/",
+        "LICENSE"
+      ],
+      "license_file": "LICENSE",
+      "license": "MIT"
+    },
+    {
+      "id": "impeccable",
+      "repository": "pbakaus/impeccable",
+      "commit": "5e745ace7e151feb2a93d360d0281fe39448b857",
+      "archive": "impeccable.zip",
+      "sha256": "a336968d02787d9dea95d29f7e9de4baec95937cb7f596067015bb286fc86ad4",
+      "entry": ".agents/skills/impeccable/SKILL.md",
+      "include": [
+        ".agents/skills/impeccable/",
+        "LICENSE",
+        "NOTICE"
+      ],
+      "license_file": "LICENSE",
+      "license": "Apache-2.0"
+    },
+    {
+      "id": "kinetic-reel",
+      "repository": "tuzhechen2005/opus-video-skills",
+      "commit": "59744a69c7b916cfbe4c4ec84006b0c2f5e2fde1",
+      "archive": "opus-video-skills.zip",
+      "sha256": "288191bf7ee9da030801fc40d2dcda4a204b7e832747e1ea1cd75a9e8ae89bf5",
+      "entry": "skills/kinetic-reel/SKILL.md",
+      "include": [
+        "skills/kinetic-reel/",
+        "skills/painted-animation/template/LICENSE",
+        "LICENSE"
+      ],
+      "license_file": "LICENSE",
+      "license": "MIT"
+    }
+  ]
+}
